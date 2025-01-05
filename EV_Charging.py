@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 ##############################################################################################################################
 
 
-number_of_buildings = 20
+number_of_buildings = 20 #Between 1 to 30
 averageLengthOfRides_km = 45  # Unit: [km]
 chargingPowerMaximum_EV  = 4.7 * 1000  # Unit: [W]=[kW]*[W/kW]
 
