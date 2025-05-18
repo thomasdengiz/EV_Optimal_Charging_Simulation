@@ -1,4 +1,4 @@
-# Electric Vehicle Charging Simulation
+# Electric Vehicle Optimal Charging Simulation
 
 ## Content
 This repository contains code for a small simulation of electric vehicle (EV) charging in a residential area. Three charging strategies are implemented:  
